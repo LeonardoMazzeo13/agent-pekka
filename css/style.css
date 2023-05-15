@@ -1,0 +1,492 @@
+.header {
+    padding-left: 20px;
+    position: absolute;
+}
+.about {
+    color: #000000;
+    padding-right: 20px;
+    width:"900";
+    margin: 15px;
+    padding: 15px;
+    padding-left:600px;
+} 
+.about a {
+    font-family:"Gill Sans Mt"; 
+    font-size: 18px; 
+    color: #000000;
+    background-color: none;
+    text-decoration: underline;
+}   
+
+.about a:hover {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+} 
+
+.body {
+        height: 100%;
+        margin: 0;
+        
+}
+
+.div {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+}
+
+.intro {
+
+    
+        background-color: rgb(255, 255, 255);
+    
+    
+}
+.page1 {
+    
+    background-color: rgb(255, 255, 255);
+    
+}
+.page2
+
+
+.entry {
+    width: 220px;
+    float: left;        
+    margin: 10px;
+    height: 198px;
+    background-image: rgb(240, 231, 231);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}.page4 {
+    
+    background-color: rgb(246, 187, 85, 1);
+}
+.page4 a {
+    padding-left: 500px;
+}   
+.page5 a {
+    padding-left: 750px;
+}  
+.page6 a {
+    padding-left: 400px;
+}  
+.page7 a {
+    padding-left: 500px;
+}  
+.page8 a {
+    padding-left: 500px;
+}  
+.page9 a {
+    padding-left: 500px;
+}  
+.page10 a {
+    padding-left: 500px;
+}  
+.page5 {
+    
+    background-color: rgb(156, 163, 222, 1);
+}
+
+.page6 {
+    
+    background-color: rgb(128, 214, 231, 1);
+}
+.page7 {
+    
+    background-color: rgb(194, 215, 185, 1);
+}
+
+.page8 {
+    
+    background-color: rgb(254, 92, 69, 1);
+}
+
+.page9 {
+    
+    background-color: rgb(239, 25, 155, 1);
+}
+
+.page10 {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    background-color: rgb(250, 202, 16, 1);
+}
+.testoprincipale p{
+    color: #000000;
+    background-color: none;
+    text-decoration: underline;
+}
+.testoprincipale p:hover {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.testoprincipale1 p{
+    color: #000000;
+    background-color: none;
+    text-decoration: underline;
+}
+.testoprincipale1 p:hover {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.testoprincipale2 p{
+    color: #000000;
+    background-color: none;
+    text-decoration: underline;
+}
+.testoprincipale2 p:hover {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+}.testoprincipale3 p{
+    color: #000000;
+    background-color: none;
+    text-decoration: underline;
+}
+.testoprincipale3 p:hover {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.testoprincipale4 p{
+    color: #000000;
+    background-color: none;
+    text-decoration: underline;
+}
+.testoprincipale4 p:hover {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.testoprincipale5 p{
+    color: #000000;
+    background-color: none;
+    text-decoration: underline;
+}
+.testoprincipale5 p:hover {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.testoprincipale6 p{
+    color: #000000;
+    background-color: none;
+    text-decoration: underline;
+}
+.testoprincipale6 p:hover {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.footer{
+font-family:"Gill Sans Mt";
+ background-color: rgb(250, 202, 16, 1);
+ position: absolute;
+ width: 1300px ;
+ height: 200px;
+ left:0px;
+ top: 2107px;
+ 
+}
+.footer img{ 
+    margin-top: 0.5rem;
+    align-items: center;
+    margin-left: 35rem;
+}
+
+.immagine1 {
+  height: auto;
+  width:auto; 
+  border-radius:10px;
+}
+
+.rettangolo {
+
+     box-sizing: border-box;
+     position: absolute;
+     width: 340px;
+     height: 500px;
+     left: 5rem;
+     top: 1034px;
+     background: #FFFFFF;
+     border: 1px solid rgba(250, 202, 16, 0.4);
+     box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.09);
+     border-radius: 15px;
+    }
+        .testoprincipale  {
+            position: absolute;
+            width: 196px;
+            height: 30px;
+            left: 6.5rem;
+            top: 1299px;
+            font-family: 'Gill Sans MT';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 28px;
+
+            color: #1E1E1E;
+        }
+        .testo {
+            position: absolute;
+            width: 308px;
+            height: 130px;
+            left: 6.5rem;
+            top: 1339px;
+            
+            font-family: 'Courier New';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 176%;
+            /* or 25px */
+            letter-spacing: 0.02em;
+            
+            color: #000000;
+        }
+        .rettangolo2 {
+
+            box-sizing: border-box;
+            position: absolute;
+            width: 340px;
+            height: 500px;
+            left: 29rem;
+            top: 1034px;
+            background: #FFFFFF;
+            border: 1px solid rgba(250, 202, 16, 0.4);
+            box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.09);
+            border-radius: 15px;
+           
+           }
+           .testoprincipale2  {
+            position: absolute;
+            width: 169px;
+            height: 30.19px;
+            left: 30rem;
+            top: 1299.3px;
+            font-family: 'Gill Sans MT';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 28px;
+            color: #1E1E1E;
+            margin:10px;
+        }
+           .testo2 {
+            position: absolute;
+            width: 308px;
+            height: 109px;
+            left: 30rem;
+            top: 1339px;
+            
+            font-family: 'Courier New';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 176%;
+            /* or 25px */
+            letter-spacing: 0.02em;
+            color: #000000;
+            margin: 10px;
+        }
+        .rettangolo3 {
+
+            box-sizing: border-box;
+            position: absolute;
+            width: 340px;
+            height: 500px;
+            left: 53rem;
+            top: 1034px;
+            background: #FFFFFF;
+            border: 1px solid rgba(250, 202, 16, 0.4);
+            box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.09);
+            border-radius: 15px;
+           
+           }
+           .testoprincipale3  {
+             position: absolute;
+             width: 169px;
+             height: 30.19px;
+             left: 54rem;
+             top: 1299.3px;
+             font-family: 'Gill Sans MT';
+             font-style: normal;
+             font-weight: 700;
+             font-size: 24px;
+             line-height: 28px;
+             color: #1E1E1E;
+             margin: 10px;
+             }
+           .testo3 {
+             position: absolute;
+             width: 308px;
+             height: 130px;
+             left: 54rem;
+             top: 1339px;
+             font-family: 'Courier New';
+             font-style: normal;
+             font-weight: 400;
+             font-size: 12px;
+             line-height: 176%;
+             /* or 21px */
+             letter-spacing: 0.02em;
+             color: #1E1E1E;
+             margin: 10px;
+              }
+              .rettangolo4 {
+                 box-sizing: border-box;
+                 position: absolute;
+                 width: 340px;
+                 height: 500px;
+                 left: 5rem;
+                 top: 1594px;
+                 background: #FFFFFF;
+                 border: 1px solid rgba(250, 202, 16, 0.4);
+                 box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.09);
+                 border-radius: 15px;
+               
+               }
+               .testoprincipale4  {
+                 position: absolute;
+                 width: 169px;
+                 height: 30.19px;
+                 left: 5.5rem;
+                 top: 1859.3px;
+                
+                 font-family: 'Gill Sans MT';
+                 font-style: normal;
+                 font-weight: 700;
+                 font-size: 24px;
+                 line-height: 28px;
+                 color: #1E1E1E;
+                 margin: 4px;
+                 }
+               .testo4 {
+                 position: absolute;
+                 width: 308px;
+                 height: 82.33px;
+                 left: 5.5rem;
+                 top: 1898.63px;
+                 font-family: 'Courier New';
+                 font-style: normal;
+                 font-weight: 400;
+                 font-size: 13px;
+                 line-height: 176%;
+                 /* or 23px */
+                 letter-spacing: 0.02em;
+                 color: #1E1E1E;
+                 margin: 4px;
+                }
+                .rettangolo5 {
+                    box-sizing: border-box;
+
+                 position: absolute;
+                 width: 340px;
+                 height: 500px;
+                 left: 29rem;
+                 top: 1594px;
+
+                 background: #FFFFFF;
+                 border: 1px solid rgba(250, 202, 16, 0.4);
+                 box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.14);
+                 border-radius: 15px;
+
+                  
+                  }
+                  .testoprincipale5  {
+                     position: absolute;
+                     width: 180px;
+                     height: 33.21px;
+                     left: 30rem;
+                     top: 1859px;
+
+                     font-family: 'Gill Sans MT';
+                     font-style: normal;
+                     font-weight: 700;
+                     font-size: 24px;
+                     line-height: 28px;
+                     color: #1E1E1E;
+                     margin: 4px;
+                     }
+                  .testo5 {
+                     position: absolute;
+                     width: 308px;
+                     height: 91.13px;
+                     left: 30rem;
+                     top: 1902.87px;
+                     font-family: 'Courier New';
+                     font-style: normal;
+                     font-weight: 400;
+                     font-size: 13px;
+                     line-height: 176%;
+                     /* or 23px */
+                     letter-spacing: 0.02em;
+                     color: #1E1E1E;
+                     margin: 4px;
+                   }
+                   .rettangolo6 {
+                    box-sizing: border-box;
+
+                     position: absolute;
+                     width: 340px;
+                     height: 500px;
+                     left: 53rem;
+                     top: 1594px;
+                     background: #FFFFFF;
+                     border: 1px solid rgba(250, 202, 16, 0.4);
+                     box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.09);
+                     border-radius: 15px;
+                    }
+                  .testoprincipale6  {
+                     position: absolute;
+                     width: 169px;
+                     height: 30.19px;
+                     left: 54rem;
+                     top: 1859.3px;
+                    
+                     font-family: 'Gill Sans MT';
+                     font-style: normal;
+                     font-weight: 700;
+                     font-size: 24px;
+                     line-height: 28px;
+                    
+                     color: #1E1E1E;
+                    
+                     margin: 4px;
+                     }
+                  .testo6 {
+                     position: absolute;
+                     width: 308px;
+                     height: 130px;
+                     left: 54rem;
+                     top: 1897px;
+                    
+                     font-family: 'Courier New';
+                     font-style: normal;
+                     font-weight: 400;
+                     font-size: 13px;
+                     line-height: 176%;
+                     /* or 23px */
+                     letter-spacing: 0.02em;
+                    
+                     color: #1E1E1E;
+                     }
+                     .illustrators {
+                        margin-left: 7rem;
+                        color: #ffffff;
+                        display: block;
+                    }
+                    
+                    .illustrators a{
+                        font-size: 2rem;
+                    }
+                    
+                    
+                    .illustrators p:hover{
+                      color:rgb(250, 202, 16, 1);
+                    }
